@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevMoyer
+- 👋 Hi, I’m @Devin Moyer
 - 👀 I’m interested in Electrical, and software systems testing. 
 - 🌱 I’m currently learning Software related Items as I have a background in electronics and wire harnesses. 
 - 💞️ I’m looking to collaborate on innovation and ideas. 
